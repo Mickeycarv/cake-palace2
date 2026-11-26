@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Red Velvet Cupcake (placeholder illustration)">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FCE8EC"/><stop offset="1" stop-color="#FFF3EA"/></linearGradient>
+    <filter id="s" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#5A2E1E" flood-opacity=".14"/></filter>
+  </defs>
+  <rect width="600" height="600" fill="url(#g1)"/>
+  <circle cx="90" cy="95" r="70" fill="#FFFFFF" opacity=".45"/>
+  <circle cx="530" cy="140" r="40" fill="#F2A7B5" opacity=".25"/>
+  <circle cx="520" cy="470" r="90" fill="#FFFFFF" opacity=".35"/>
+  <ellipse cx="300" cy="430" rx="200" ry="40" fill="#FFFFFF" filter="url(#s)"/><ellipse cx="300" cy="426" rx="175" ry="31.5" fill="#F6EEE9"/><g filter="url(#s)"><g transform="translate(-110 0) scale(0.8)" transform-origin="300 400">
+    <path d="M220 300 L380 300 L360 420 L240 420 Z" fill="#F2A7B5"/>
+    <path d="M245 300 L255 420 M275 300 L280 420 M300 300 L300 420 M325 300 L320 420 M355 300 L345 420" stroke="#FFFFFF" stroke-width="5" opacity=".7"/>
+    <ellipse cx="300" cy="300" rx="90" ry="22" fill="#A3404F"/>
+    <path d="M210 300 q-10 -60 50 -60 q0 -60 40 -70 q40 10 40 70 q60 0 50 60 z" fill="#FFF6F0"/>
+    <path d="M240 270 q60 -30 120 0" stroke="#F2A7B5" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <circle cx="300" cy="168" r="14" fill="#F2A7B5"/>
+  </g><g transform="translate(110 0) scale(0.8)" transform-origin="300 400">
+    <path d="M220 300 L380 300 L360 420 L240 420 Z" fill="#F2A7B5"/>
+    <path d="M245 300 L255 420 M275 300 L280 420 M300 300 L300 420 M325 300 L320 420 M355 300 L345 420" stroke="#FFFFFF" stroke-width="5" opacity=".7"/>
+    <ellipse cx="300" cy="300" rx="90" ry="22" fill="#A3404F"/>
+    <path d="M210 300 q-10 -60 50 -60 q0 -60 40 -70 q40 10 40 70 q60 0 50 60 z" fill="#FFF6F0"/>
+    <path d="M240 270 q60 -30 120 0" stroke="#F2A7B5" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <circle cx="300" cy="168" r="14" fill="#F2A7B5"/>
+  </g></g>
+  <rect x="60" y="500" width="480" height="64" rx="32" fill="#FFFFFF" opacity=".92"/>
+  <text x="300" y="541" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, sans-serif" font-size="30" font-weight="600" fill="#5A2E1E">Red Velvet Cupcake</text>
+  <text x="300" y="44" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, sans-serif" font-size="16" fill="#5A2E1E" opacity=".55">Photo coming soon</text>
+</svg>

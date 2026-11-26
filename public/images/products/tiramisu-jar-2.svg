@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Tiramisu Jar (placeholder illustration)">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FCE8EC"/><stop offset="1" stop-color="#FFF3EA"/></linearGradient>
+    <filter id="s" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#5A2E1E" flood-opacity=".14"/></filter>
+  </defs>
+  <rect width="600" height="600" fill="url(#g1)"/>
+  <circle cx="90" cy="95" r="70" fill="#FFFFFF" opacity=".45"/>
+  <circle cx="530" cy="140" r="40" fill="#F2A7B5" opacity=".25"/>
+  <circle cx="520" cy="470" r="90" fill="#FFFFFF" opacity=".35"/>
+  <ellipse cx="300" cy="440" rx="200" ry="40" fill="#FFFFFF" filter="url(#s)"/><ellipse cx="300" cy="436" rx="175" ry="31.5" fill="#F6EEE9"/><g filter="url(#s)"><g transform="scale(.8) translate(-10 90)"><g transform="translate(-120 0)">
+    <rect x="215" y="170" width="170" height="250" rx="26" fill="#FFFFFF" opacity=".75"/>
+    <rect x="228" y="200" width="144" height="208" rx="18" fill="#FBF1E3"/>
+    <rect x="228" y="220" width="144" height="46" fill="#C8A27A"/>
+    <rect x="228" y="300" width="144" height="46" fill="#C8A27A"/>
+    <rect x="228" y="370" width="144" height="38" rx="14" fill="#C8A27A"/>
+    <ellipse cx="300" cy="200" rx="72" ry="12" fill="#6B3A28"/>
+    <rect x="225" y="150" width="150" height="26" rx="10" fill="#5A2E1E"/>
+  </g><g transform="translate(140 0)">
+    <rect x="215" y="170" width="170" height="250" rx="26" fill="#FFFFFF" opacity=".75"/>
+    <rect x="228" y="200" width="144" height="208" rx="18" fill="#FBF1E3"/>
+    <rect x="228" y="220" width="144" height="46" fill="#C8A27A"/>
+    <rect x="228" y="300" width="144" height="46" fill="#C8A27A"/>
+    <rect x="228" y="370" width="144" height="38" rx="14" fill="#C8A27A"/>
+    <ellipse cx="300" cy="200" rx="72" ry="12" fill="#6B3A28"/>
+    <rect x="225" y="150" width="150" height="26" rx="10" fill="#5A2E1E"/>
+  </g></g></g>
+  <rect x="60" y="500" width="480" height="64" rx="32" fill="#FFFFFF" opacity=".92"/>
+  <text x="300" y="541" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, sans-serif" font-size="30" font-weight="600" fill="#5A2E1E">Tiramisu Jar</text>
+  <text x="300" y="44" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, sans-serif" font-size="16" fill="#5A2E1E" opacity=".55">Photo coming soon</text>
+</svg>

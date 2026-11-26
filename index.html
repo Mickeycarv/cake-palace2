@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en-IN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#5A2E1E" />
+    <title>Cake Palace – Bakery in Hyderabad | Fresh Cakes Daily</title>
+    <meta
+      name="description"
+      content="Cake Palace is a bakery in Hyderabad (Banjara Hills) baking fresh birthday, anniversary and custom cakes daily. Eggless options. Call or WhatsApp us."
+    />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <!-- Poppins loads without blocking the first paint; system fonts show until it arrives. -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
+      media="print"
+      onload="this.media='all'"
+    />
+    <noscript>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" />
+    </noscript>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script>
+      // Pre-rendered HTML belongs to one page. If this file was served for a different
+      // address (e.g. /menu falls back to index.html), clear it so the wrong page never shows.
+      (function () {
+        var r = document.getElementById('root');
+        var p = r && r.getAttribute('data-prerendered');
+        var here = location.pathname.replace(/\/+$/, '') || '/';
+        if (p && p !== here) r.innerHTML = '';
+      })();
+    </script>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
